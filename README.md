@@ -434,6 +434,4 @@ Next word Predictor/
 - Python 3.6+
 - Standard library only (no external dependencies)
 
-## License
 
-This project is open source and available under the MIT License.
