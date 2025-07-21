@@ -380,15 +380,9 @@ Next word Predictor/
 ├── graph_visualization.py   # Model visualization and analysis
 ├── test_predictor.py        # Test script
 ├── README.md                # This documentation
-├── index.html               # Standalone web demo
 ├── dataset/
 │   ├── 01.txt              # Training data (Adi Parva)
 │   └── 02.txt              # Training data (Sabha Parva)
-├── templates/
-│   └── index.html          # Flask web UI template
-└── js/
-    ├── text-processor.js   # Client-side text processing
-    └── ngram-builder.js    # JavaScript n-gram implementation
 ```
 
 ### Interface Options Summary
